@@ -11,7 +11,7 @@ body {
   height: 100%;
   margin: 0px;
   padding: 0px;
-  font-family: PingFangHK-UltraLight, PingFangHK;
+  font-family: PingFangSC-UltraLight, PingFangSC;
   font-size: 16px;
   color: #444;
   font-weight: 200;
@@ -36,7 +36,7 @@ p {
 }
 
 button {
-  font-family: PingFangHK-Light, PingFangHK;
+  font-family: PingFangSC-Light, PingFangSC;
   font-weight: 200;
   background: #1b9af7;
   border: 1px solid #1b9af7;
@@ -62,7 +62,7 @@ input {
   border-bottom: 0.5px solid #999;
   border-radius: 0px;
   color: #444;
-  font-family: PingFangHK-UltraLight, PingFangHK;
+  font-family: PingFangSC-UltraLight, PingFangSC;
   font-weight: 200;
 }
 
@@ -83,7 +83,7 @@ table {
   padding: 0px;
   border: 1px solid #eee;
   border-collapse: collapse;
-  font-family: PingFangHK-UltraLight, PingFangHK;
+  font-family: PingFangSC-UltraLight, PingFangSC;
   font-size: 16px;
   color: #555;
   font-weight: 200;
@@ -110,25 +110,25 @@ a {
 
 ::-webkit-input-placeholder {
   color: #999; opacity: 1 !important;
-  font-family: PingFangHK-UltraLight, PingFangHK;
+  font-family: PingFangSC-UltraLight, PingFangSC;
   font-weight: 200;
 }
 
 :-moz-placeholder { 
   color: #999;
-  font-family: PingFangHK-UltraLight, PingFangHK;
+  font-family: PingFangSC-UltraLight, PingFangSC;
   font-weight: 200;
 }
 
 ::-moz-placeholder {
   color: #999;
-  font-family: PingFangHK-UltraLight, PingFangHK;
+  font-family: PingFangSC-UltraLight, PingFangSC;
   font-weight: 200;
 }
 
 :-ms-input-placeholder {
   color: #999;
-  font-family: PingFangHK-UltraLight, PingFangHK;
+  font-family: PingFangSC-UltraLight, PingFangSC;
   font-weight: 200;
 }
 
